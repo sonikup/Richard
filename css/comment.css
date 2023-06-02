@@ -50,3 +50,48 @@
 .icons__png{
     padding: 120px 0;
 }
+@media screen and (max-width:768px){
+    .icons__png{
+        width: 750px;
+    }
+    .frame__png{
+        width: 750px;
+    }
+}
+@media screen and (max-width:425px){
+    .comment-p{
+        font-size: 16px;
+        line-height: 15px;
+        width: 400px;
+    }
+    .icons__png{
+        width: 405px;
+    }
+    .frame__png{
+        width: 405px;
+    }
+}
+@media screen and (max-width:375px){
+    .comment-p{
+        width: 350px;
+        line-height: 20px;
+    }
+    .icons__png{
+        width: 355px;
+    }
+    .frame__png{
+        width: 355px;
+    }
+}
+@media screen and (max-width:320px){
+    .comment-p{
+        width: 280px;
+        margin-bottom: 20px;
+    }
+    .icons__png{
+        width: 300px;
+    }
+    .frame__png{
+        width: 300px;
+    }
+}

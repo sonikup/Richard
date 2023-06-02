@@ -37,3 +37,29 @@ text-align: center;
     gap: 55px;
     flex-direction: column;
 }
+@media screen and (max-width:768px){
+    .tablet__img img{
+        width: 668px;
+    }
+}
+@media screen and (max-width:425px){
+    .tablet__desc-p2{
+        font-size: 16px;
+    }
+    .tablet__img img{
+        width: 400px;
+    }
+}
+@media screen and (max-width:375px){
+    .tablet__desc-p2{
+        font-size: 14px;
+    }
+    .tablet__img img{
+        width: 300px;
+    }
+}
+@media screen and (max-width:320px){
+    .tablet__desc-p2{
+        font-size: 12px;
+    }
+}

@@ -50,3 +50,22 @@ border-radius: 3px;
     flex-direction: column;
     gap: 40px;
 }
+@media screen and (max-width:375px){
+    .start-p{
+        font-size: 30px;
+    }
+    .btn1{
+        padding: 20px 30px;
+    }
+    .btn2{
+        padding: 20px 30px;
+    }
+}
+@media screen and (max-width:320px){
+    .btn1{
+        font-size: 12px;
+    }
+    .btn2{
+        font-size: 12px;
+    }
+}
