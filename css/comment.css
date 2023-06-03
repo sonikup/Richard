@@ -95,3 +95,16 @@
         width: 300px;
     }
 }
+@media screen and (max-width:490px){
+    .comment-p{
+        font-size: 16px;
+        line-height: 15px;
+        width: 400px;
+    }
+    .icons__png{
+        width: 405px;
+    }
+    .frame__png{
+        width: 405px;
+    }
+}

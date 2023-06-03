@@ -105,3 +105,18 @@ gap: 30px;
         text-align: center;
     }
 }
+@media screen and (max-width:490px){
+    .footer__desc-p1{
+        font-size: 30px;
+    }
+    .input{
+        padding-right: 60px;
+    }
+    .input1{
+        margin-left: 0px;
+    }
+    .footer__links{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
