@@ -79,11 +79,14 @@ gap: 30px;
         font-size: 30px;
     }
     .input{
-        padding-right: 60px;
+        padding-right: 40px;
+        width: 300px;
+    }
+    .btn{
+        width: 100px;
     }
     .input1{
         margin-left: 0px;
-        width: 450px;
     }
     .footer__links{
         flex-wrap: wrap;
