@@ -235,8 +235,16 @@
     .team__cards__nav-item img {
         margin-left: 110px;
     }
+    .team__cards__nav-item{
+        max-width: 450px;
+        width: 100%;
+    }
     .cards__food-item img {
         width: 390px;
+    }
+    .cards__food{
+        max-width: 450px;
+        width: 100%;
     }
     .cards__path-item-desc-p{
         width: 330px;
