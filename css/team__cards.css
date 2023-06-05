@@ -238,6 +238,17 @@
     .cards__food-item img {
         width: 390px;
     }
+    .cards__path-item-desc-p{
+        width: 330px;
+    }
+    .cards__path-item{
+        max-width: 450px;
+        width: 100%;
+    }
+    .cards__number-item{
+        max-width: 450px;
+        width: 100%;
+    }
 }
 @media screen and (max-width:425px) {
     .team__cards__nav-item {

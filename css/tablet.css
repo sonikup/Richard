@@ -45,6 +45,7 @@ text-align: center;
 @media screen and (max-width:490px){
     .tablet__desc-p2{
         font-size: 16px;
+        width: 440px;
     }
     .tablet__img img{
         width: 400px;
